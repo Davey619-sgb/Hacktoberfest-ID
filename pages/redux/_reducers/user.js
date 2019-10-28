@@ -2,12 +2,12 @@ const initialState = {
     isLoading: true,
     contributor: [
         {
-            name: 'Abdul Hakim',
-            name: 'Abdel Ganteng'
+            name: 'Daffa ABdul Farras',
+            name: 'Daffa Ganteng'
         },
         {
-            name: 'Edytk',
-            name: 'et.mk'
+            name: 'Dina Maretta',
+            name: 'MaretDN'
         },
     ],
     error: null
